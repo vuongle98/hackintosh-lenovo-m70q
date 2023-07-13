@@ -11,8 +11,8 @@
 | WIFI | Intel 7265 |
 | Ethernet | Intel I219-V |
 
-**macOS version**: 13.3.1
-**OpenCore version**: 0.9.1
+**macOS version**: 13.4.1
+**OpenCore version**: 0.9.3
 
 ## What working?
 
