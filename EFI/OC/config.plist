@@ -1175,7 +1175,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 alcid=11 swd_panic=1 igfxonln=1</string>
+				<string>alcid=11 keepsyms=1 swd_panic=1 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1250,13 +1250,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C022335014NPHC1AD</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>QDAEXpjX</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1264,9 +1264,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02J76Z2PN5T</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>5C20AC9F-43EC-49C9-AAA8-A777A61AF9F0</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

@@ -11,7 +11,7 @@
 | WIFI | Intel 7265 |
 | Ethernet | Intel I219-V |
 
-**macOS version**: 13.4.1
+**macOS version**: 13.5
 **OpenCore version**: 0.9.3
 
 ## What working?
@@ -19,6 +19,6 @@
 - CPU
 - Audio
 - Ethernet
-- USB
+- USB (USB 3.x Not recognizable)
 - Wifi, Bluetooth
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
