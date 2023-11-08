@@ -1,10 +1,10 @@
-# OpenCore EFI for Lenovo M70Q (macOS 13.3.1)
+# OpenCore EFI for Lenovo M70Q (macOS 13.5)
 
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | Intel i5-10400T |
-| RAM | 1 * 16GB DDR4-2666 & 1 * 8GB DDR4-2666|
+| RAM | 1 * 16GB DDR4-2666 & 1 * 16GB DDR4-2666|
 | Audio Chipset | ALC233 |
 | GPU | Intel® UHD Graphics 630 (DP, HDMI, VGA) |
 | OS Disk (NVMe) | SSD Kingston SNV2S 500GB |
@@ -16,9 +16,10 @@
 
 ## What working?
 
-- CPU
+- CPU, GPU
 - Audio
 - Ethernet
 - USB (USB 3.x Not recognizable)
-- Wifi, Bluetooth
+- Wifi
+- Bluetooth (not stable)
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
