@@ -19,7 +19,7 @@
 - CPU, GPU
 - Audio
 - Ethernet
-- USB (USB 3.x Not recognizable)
+- USB
 - Wifi
 - Bluetooth (not stable)
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
