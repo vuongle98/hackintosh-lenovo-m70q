@@ -4,9 +4,9 @@
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | Intel i5-10400T |
-| RAM | 1 * 16GB DDR4-2666 & 1 * 16GB DDR4-2666|
+| RAM | 2 * 16GB DDR4-2666 |
 | Audio Chipset | ALC233 |
-| GPU | Intel® UHD Graphics 630 (DP, HDMI, VGA) |
+| GPU | Intel® UHD Graphics 630 (HDMI, VGA) |
 | OS Disk (NVMe) | SSD Kingston SNV2S 500GB |
 | WIFI | Intel 7265 |
 | Ethernet | Intel I219-V |
